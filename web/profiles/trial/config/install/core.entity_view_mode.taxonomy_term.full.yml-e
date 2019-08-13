@@ -1,0 +1,10 @@
+uuid: 56c318f0-2545-467c-8cc9-221764285615
+langcode: en
+status: true
+dependencies:
+  module:
+    - taxonomy
+id: taxonomy_term.full
+label: 'Taxonomy term page'
+targetEntityType: taxonomy_term
+cache: true

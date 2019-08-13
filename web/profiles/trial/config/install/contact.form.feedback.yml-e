@@ -1,0 +1,12 @@
+uuid: f53955e0-8afe-44af-8337-545ac5e7b8d2
+langcode: en
+status: true
+dependencies: {  }
+id: feedback
+label: 'Website feedback'
+recipients:
+  - zakiya@chapterthree.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
