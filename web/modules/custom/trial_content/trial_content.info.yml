@@ -1,0 +1,8 @@
+name: 'JCC Trial Default Content'
+type: module
+description: 'JCC Trial Court Template Default Content'
+core: 8.x
+package: 'JCC Trial'
+
+dependencies:
+  - default_content
