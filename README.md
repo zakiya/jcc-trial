@@ -20,3 +20,5 @@
 # @Todo
 - Create example settings.local.php and services.local.php files and scripts.
 - Default content doesn't get created on initial install. Need to `drush pmu trial_content` + `drush en trial_content`.
+- Handle dev dependencies better.
+- Delete composer.lock?
