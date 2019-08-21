@@ -14,6 +14,10 @@
             "type": "git",
             "name": "zakiya/jcc-core",
             "url": "https://github.com/zakiya/jcc-core"
+        },
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
         }
     ],
     "require": {
