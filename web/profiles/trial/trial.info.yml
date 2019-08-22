@@ -7,6 +7,7 @@ install:
 - admin_toolbar
 - adminimal_admin_toolbar
 - automated_cron
+- autosave_form
 - big_pipe
 - block
 - breakpoint
@@ -14,6 +15,7 @@ install:
 - chosen_lib
 - ckeditor
 - color
+- components
 - config
 - config_direct_save
 - config_filter
@@ -25,6 +27,8 @@ install:
 - default_content
 - dynamic_page_cache
 - editor
+- entity_clone
+- environment_indicator
 - field
 - field_ui
 - file
@@ -34,12 +38,15 @@ install:
 - history
 - image
 - link
+- maxlength
+- media
 - menu_ui
 - module_filter
 - node
 - options
 - page_cache
 - path
+- pathauto
 - quickedit
 - rdf
 - search
@@ -54,7 +61,6 @@ install:
 - update
 - user
 - views_ui
-- menu_link_content
 - views
 
 - trial_content
