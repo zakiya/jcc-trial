@@ -12,8 +12,8 @@
     "repositories": [
         {
             "type": "git",
-            "name": "zakiya/jcc-core",
-            "url": "https://github.com/zakiya/jcc-core"
+            "name": "zakiya/jcc-common",
+            "url": "https://github.com/zakiya/jcc-common"
         },
         {
             "type": "composer",
@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "zakiya/jcc-core": "dev-modified"
+        "zakiya/jcc-common": "dev-master"
     },
     "require-dev": {
         "webflo/drupal-core-require-dev": "^8.7.0"
