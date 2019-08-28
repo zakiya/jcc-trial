@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "zakiya/jcc-core": "dev-master"
+        "zakiya/jcc-core": "dev-modified"
     },
     "require-dev": {
         "webflo/drupal-core-require-dev": "^8.7.0"
